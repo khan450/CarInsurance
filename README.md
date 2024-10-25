@@ -1,0 +1,1 @@
+CarInsurance Project - A web application developed using ASP.NET MVC for managing insurance quotes. This application allows users to create insurance profiles, calculate quotes based on various factors, and provides an admin view to manage issued quotes.
