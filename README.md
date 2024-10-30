@@ -1,4 +1,4 @@
-# Car Insurance Project
+# C# Projects
 
 This is an MVC web application developed using ASP.NET MVC and Entity Framework. The application mimics a car insurance website, allowing users to input policy information and calculate quotes based on business logic. It also features an admin page for staff to view all issued quotes.
 
